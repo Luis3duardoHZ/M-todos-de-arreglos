@@ -1,8 +1,8 @@
 
 let tareas = [
-  { id: 1, descripcion: "Estudiar JavaScript", completado: false },
-  { id: 2, descripcion: "Hacer el desafío", completado: false },
-  { id: 3, descripcion: "Subir a GitHub", completado: false }
+  { id: 1, descripcion: "Entrenar ", completado: false },
+  { id: 2, descripcion: "Meditar", completado: false },
+  { id: 3, descripcion: "Cena de Negocios", completado: false }
 ];
 
 
